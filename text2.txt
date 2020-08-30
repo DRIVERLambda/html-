@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<strong>引用（Quotation）</strong>
+</br>
+这是摘自 WWF 网站的引文
+<blockquote>五十年来，WWF 一直致力于保护自然界的未来。 世界领先的环保组织，WWF 工作于 100 个国家，并得到美国一百二十万会员及全球近五百万会员的支持。</blockquote>
+</br>
+<script type="text/javascript">
+document.wirte("<h1>Hello wrold!</h1>")
+</script>
+</body>
+</html>>

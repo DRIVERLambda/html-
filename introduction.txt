@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    #header {
+        background-color:black;
+        color:white;
+        text-align:center;
+        padding:5px;
+    }
+    #nav{
+        background-color: #eeeeee;
+        width: 300px;
+        height: 600px;
+        float: left;
+        line-height: 10px;
+        padding: 10px;
+    }
+    #section{
+        width: 500px;
+        float: left;
+        padding: 30px;
+    }
+
+    </style>
+</head>
+<body>
+<div id="header">
+<h2>简历</h2>
+</div>
+<div id="nav">
+<h4>姓名:漩涡鸣人</h4>
+<hr />
+<h4>性别：男</h4>
+<hr />
+<h4>年龄：24</h4>
+<hr />
+<h4>毕业院校：木影村忍者学校</h4>
+<hr>
+<h4>血型：B型</h4>
+<hr>
+<h4>身高：180cm</h4>
+<hr>
+<h4>联系方式：135xxxxxxxx</h4>
+<hr>
+<h4>联系地址：木叶忍者村XX町XX目XX号</h4>
+<hr>
+</div>
+<div id="section">
+<h3>修习忍术</h3>
+<p>后宫之术、多重影分身之术、通灵之术、风遁·螺旋手里剑、超大玉螺旋丸、漩涡鸣人三千连弹
+仙人模式、六道仙人模式、九尾查克拉之手、尾兽化、阴阳遁</p>
+<h3>工作经历</h3>
+<p>曾执行D级任务21次，C级任务3次，B级任务3次，A级任务8次</p>
+<p>第七班三人小队，第三代九尾人柱力，阿修罗转世，木叶忍者村村长</p>
+</div>
+<div id="section">
+<img src="naruto.png" width="100"  /></div>
+</body>
+</html>

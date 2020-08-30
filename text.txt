@@ -1,0 +1,11 @@
+﻿<!DOTTYPE html>
+<html>
+<body>
+<article>
+<h1 style="text align:center">欢迎，一起来欣赏美少女吧</strong>
+<sub> 乃木坂46 </sub>
+<img align="center" src="erika.jpg" weight="500" height="1000" />
+</article>
+<abbr title="Mr.Jack sparrow">Mr.Js</abbr>>
+</body>
+</html>
